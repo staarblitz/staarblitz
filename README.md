@@ -5,4 +5,4 @@ I know Rust, C#, C, assembly and Flutter.
 
 I work on x86_64 architecture.
 
-- I'm currently working on (hxposed)[github.com/staarblitz/hxposed]
+- I'm currently working on [hxposed](github.com/staarblitz/hxposed)
