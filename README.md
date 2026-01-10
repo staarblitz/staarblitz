@@ -1,8 +1,19 @@
-## Hello there
-I'm a software developer with attraction to low-level stuff.
+> I hate Intel
 
-I know Rust, C#, C, assembly and Flutter.
+### Focus
+`Hypervisors`, `SMM`, `Rootkits`, `Windows`, `UEFI`
 
-I work on x86_64 architecture.
+---
 
-- I'm currently working on [hxposed](https://github.com/staarblitz/hxposed)
+### Research & Development
+| Project | Description |
+| :--- | :--- |
+| **HxPosed** | Hypervisor-based NT standardizer for user-mode. |
+| **KernelMap** | Manual driver mapping and execution. |
+| **SystemExtender** | Process mitigation support for System Informer. |
+
+---
+
+[Telegram](https://t.me/staarblitz)
+
+[My blog](https://staarblitz.github.io)
