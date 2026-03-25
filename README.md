@@ -14,6 +14,10 @@
 
 ---
 
+### Contact
+
+Contact me for mentorship, asking questions, or just chatting.
+
 [Telegram](https://t.me/staarblitz)
 
 [My blog](https://staarblitz.github.io)
