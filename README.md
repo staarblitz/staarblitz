@@ -1,4 +1,4 @@
-> I hate Intel
+> Itanium is my darling
 
 ### Focus
 `Hypervisors`, `SMM`, `Rootkits`, `Windows`, `UEFI`
