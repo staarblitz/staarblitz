@@ -8,7 +8,7 @@
 ### Research & Development
 | Project | Description |
 | :--- | :--- |
-| **HxPosed** | Hypervisor-based NT standardizer for user-mode. |
+| **HxPosed** | NT standardizer for user-mode. |
 | **KernelMap** | Manual driver mapping and execution. |
 | **SystemExtender** | Process mitigation support for System Informer. |
 
