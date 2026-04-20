@@ -4,7 +4,7 @@
 Windows kernel driver developer, low-level enthusiast.
 
 ### Focus
-`Hypervisors`, `SMM`, `Rootkits`, `Windows`, `UEFI`, `Malware Analysis
+`Hypervisors`, `SMM`, `Rootkits`, `Windows`, `UEFI`, `Malware Analysis`
 
 ---
 
